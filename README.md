@@ -13,6 +13,4 @@
 
 
 
-![Progress Bar](https://img.shields.io/badge/Speed-200cc-red?style=flat-square&logo=mariokart)
-
 
