@@ -6,7 +6,7 @@
 
 
 📊 **GitHub Stats**
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=gretehalvorsen&show_icons=true&theme=radical)
 
 🔗 **Connect with me**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/grete-halvorsen/)
