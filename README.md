@@ -12,5 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/grete-halvorsen/)
 
 
-![Mario Kart Fan](https://img.shields.io/badge/-MarioKart%20Pro-red?style=flat-square&logo=nintendo)
+
+![Progress Bar](https://img.shields.io/badge/Speed-200cc-red?style=flat-square&logo=mariokart)
+
 
