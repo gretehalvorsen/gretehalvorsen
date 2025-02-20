@@ -5,7 +5,7 @@
 🔭 Currently working on my bachelor's degree in IT.
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gretehalvorsen&layout=compact&theme=radical)
 
 
 🔗 **Connect with me**
